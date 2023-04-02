@@ -1,4 +1,4 @@
-### Hi there 👋
+# Zaid Hassan
 
 <!--
 **zaid-hassan/zaid-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
